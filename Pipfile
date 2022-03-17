@@ -10,6 +10,7 @@ pandas = "*"
 matplotlib = "*"
 japanize-matplotlib = "*"
 seaborn = "*"
+openpyxl = "*"
 
 [dev-packages]
 
