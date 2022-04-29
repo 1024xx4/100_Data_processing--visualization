@@ -11,6 +11,7 @@ matplotlib = "*"
 japanize-matplotlib = "*"
 seaborn = "*"
 openpyxl = "*"
+mecab-python3 = "*"
 
 [dev-packages]
 
