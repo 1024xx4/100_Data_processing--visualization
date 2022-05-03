@@ -12,6 +12,7 @@ japanize-matplotlib = "*"
 seaborn = "*"
 openpyxl = "*"
 mecab-python3 = "*"
+wordcloud = "*"
 
 [dev-packages]
 
