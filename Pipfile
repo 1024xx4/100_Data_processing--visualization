@@ -13,6 +13,7 @@ seaborn = "*"
 openpyxl = "*"
 mecab-python3 = "*"
 wordcloud = "*"
+nltk = "*"
 
 [dev-packages]
 
