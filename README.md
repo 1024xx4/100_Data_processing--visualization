@@ -14,34 +14,22 @@ https://www.shuwasystem.co.jp/support/download/6439/sample_picture.zip
 https://www.shuwasystem.co.jp/support/download/6439/%E6%AD%A3%E8%AA%A4%E8%A1%A8.pdf
 
 ---
-## 関数
-```python
-import pandas as pd
-pd.pivot_table(data, index='', columns='', aggfunc='')
-```
-Pivot table の表を作成する。
-###### 引数
-data: DataFrame を指定  
-index: 縦の項目を DataFrame の列名で指定  
-columns: 横の項目を DataFrame の列名で指定  
-aggfunc: 集計方法を指定
+## 非構造化 Data
+- 言語
+- 画像
+- 音
 
----
+など、ひとつの塊として定義はできるものの、その中に膨大な上表が含まれた Data.
+実際の中身がどうなっているのか Image できるようになるまで理解して Data を扱うのとそうでないのとで、大きな差が付く。
 
-```python
-import matplotlib.pyplot as plt
-plt.bar(x, y)
-```
-棒Graph を描画する
-###### 引数
-x: 横軸  
-y: 縦軸
----
-```python
-import matplotlib.pyplot as plt
-plt.barh(x, y)
-```
-横向きの棒Graph を描画する
-###### 引数
-x: 縦軸
-y: 横軸
+非構造化Data まで扱えるようになると、AI活用に繋がる Data加工の基礎が身に付き、ほとんどの Data に怖さがなくなる。
+技術の引き出しも一気に増えていく。
+
+### 構造化Data との違い
+Data構造を最小単位まで単純化した管理はしない。
+#### 言語
+文章は多くの単語から構成されるが、その単語が使われる数に決まりはない。
+#### 画像
+Pixel単位で情報を持つが、Pixel の数は Camera の設定などで変化する。
+
+
