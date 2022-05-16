@@ -15,6 +15,7 @@ mecab-python3 = "*"
 wordcloud = "*"
 nltk = "*"
 opencv-python = "*"
+sklearn = "*"
 
 [dev-packages]
 
