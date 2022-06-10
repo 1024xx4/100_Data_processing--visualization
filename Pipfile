@@ -19,6 +19,7 @@ sklearn = "*"
 imblearn = "*"
 pyyaml = "*"
 toml = "*"
+moviepy = "*"
 
 [dev-packages]
 
