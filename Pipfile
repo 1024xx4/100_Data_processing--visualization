@@ -17,6 +17,8 @@ nltk = "*"
 opencv-python = "*"
 sklearn = "*"
 imblearn = "*"
+pyyaml = "*"
+toml = "*"
 
 [dev-packages]
 
