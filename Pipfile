@@ -20,6 +20,8 @@ imblearn = "*"
 pyyaml = "*"
 toml = "*"
 moviepy = "*"
+python-pptx = "*"
+python-docx = "*"
 
 [dev-packages]
 
