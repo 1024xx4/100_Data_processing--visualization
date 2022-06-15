@@ -23,6 +23,7 @@ moviepy = "*"
 python-pptx = "*"
 python-docx = "*"
 "pdfminer.six" = "*"
+plotly = "*"
 
 [dev-packages]
 
