@@ -22,6 +22,7 @@ toml = "*"
 moviepy = "*"
 python-pptx = "*"
 python-docx = "*"
+"pdfminer.six" = "*"
 
 [dev-packages]
 
