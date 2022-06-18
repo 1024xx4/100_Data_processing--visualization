@@ -17,6 +17,13 @@ nltk = "*"
 opencv-python = "*"
 sklearn = "*"
 imblearn = "*"
+pyyaml = "*"
+toml = "*"
+moviepy = "*"
+python-pptx = "*"
+python-docx = "*"
+"pdfminer.six" = "*"
+plotly = "*"
 
 [dev-packages]
 

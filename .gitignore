@@ -133,3 +133,5 @@ sample_file
 sample_picture
 .idea
 data/*
+response.*
+dump/*
